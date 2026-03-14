@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Eknatha Reddy Puli
 
-<!--
-**eknatha/eknatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Platform / Cloud Infrastructure Engineer with 13+ years of experience building and operating large-scale cloud platforms.
 
-Here are some ideas to get you started:
+## 🚀 Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Kubernetes
+- Terraform
+- Linux Infrastructure
+- AWS / Azure
+- Platform Engineering
+- Infrastructure as Code
+- DevOps Automation
+
+## 📚 What I Share
+
+- Kubernetes Production Troubleshooting
+- Terraform Infrastructure Patterns
+- DevOps Automation Scripts
+- Real Production Incident RCA
+
+## 🛠 Tech Stack
+
+Kubernetes | Terraform | Docker | Linux | AWS | Azure | GitHub Actions |Future Tech
+
+## 🔧 Current Focus
+
+Building reliable cloud platforms and sharing real-world DevOps troubleshooting knowledge.
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/eknathareddyp 
