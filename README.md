@@ -4,10 +4,10 @@ Platform / Cloud Infrastructure Engineer with 13+ years of experience building a
 
 ## 🚀 Expertise
 
+- Linux Infrastructure
 - Kubernetes
 - Terraform
-- Linux Infrastructure
-- AWS / Azure
+- AWS / Azure / GCP / Openstack
 - Platform Engineering
 - Ansible
 - Infrastructure as Code
@@ -15,6 +15,7 @@ Platform / Cloud Infrastructure Engineer with 13+ years of experience building a
 
 ## 📚 What I Share
 
+- Linux for Devops
 - Kubernetes Production Troubleshooting
 - Terraform Infrastructure Patterns
 - DevOps Automation Scripts
@@ -22,7 +23,7 @@ Platform / Cloud Infrastructure Engineer with 13+ years of experience building a
 
 ## 🛠 Tech Stack
 
-Kubernetes | Terraform | Docker | Linux | AWS | Azure | Ansible | GitHub Actions |Future Tech
+Linux | Kubernetes | Terraform | Docker | AWS | Azure | Ansible | GitHub Actions |Future Tech
 
 ## 🔧 Current Focus
 
