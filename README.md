@@ -2,7 +2,7 @@
 
 Platform / Cloud Infrastructure Engineer with 13+ years of experience building and operating large-scale cloud platforms.
 
-![Visitor Count](https://profile-counter.glitch.me/{eknatha}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/eknatha/count.svg)
 
 
 ## 🚀 Expertise
