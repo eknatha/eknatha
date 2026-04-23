@@ -26,7 +26,7 @@ Platform / Cloud Infrastructure Engineer with 13+ years of experience building a
 
 ## 🛠 Tech Stack
 
-Linux | Kubernetes | Terraform | Docker | AWS | Azure | Ansible | GitHub Actions |Future Tech
+Linux | Kubernetes | Terraform | Docker | AWS | Azure | Ansible | GitHub Actions
 
 ## 🔧 Current Focus
 
