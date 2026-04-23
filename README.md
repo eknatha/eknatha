@@ -1,37 +1,43 @@
-# Hi 👋 I'm Eknatha Reddy Puli
+# Hi, 👋 I'm Eknatha Reddy Puli
 
-Platform / Cloud Infrastructure Engineer with 13+ years of experience building and operating large-scale cloud platforms.
+13 years running production infra — Linux, Kubernetes, OpenStack, AWS, Azure, Terraform.  
+Now building platforms, not just operating them.  
+Everything I build goes public at [EknathaLabs](https://eknathalabs.com).
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=eknatha)
 
 
-## 🚀 Expertise
+---
 
-- Linux Infrastructure
-- Kubernetes
-- Terraform
-- AWS / Azure / GCP / Openstack
-- Platform Engineering
-- Ansible
-- Infrastructure as Code
-- DevOps Automation
+## What I actually do
 
-## 📚 What I Share
+- **Production Kubernetes** — cluster ops, incident RCAs, runbooks from real failures
+- **Infrastructure as Code** — Terraform patterns for multi-cloud, reusable modules  
+- **Linux for Platform Engineers** — deep-dive docs, scripts, and 100-challenge series
+- **DevOps Automation** — Bash + Python scripts that actually run in prod
 
-- Linux for Devops
-- Kubernetes Production Troubleshooting
-- Terraform Infrastructure Patterns
-- DevOps Automation Scripts
-- Real Production Incident RCA
+---
 
-## 🛠 Tech Stack
+## EknathaLabs — building in public
 
-Linux | Kubernetes | Terraform | Docker | AWS | Azure | Ansible | GitHub Actions
+| | |
+|---|---|
+| [eknathalabs.com](https://eknathalabs.com) | Labs hub — tools, challenges, interview prep |
+| [blog.eknathalabs.com](https://blog.eknathalabs.com) | Real infra stories, no fluff |
+| [terraform.eknathalabs.com](https://terraform.eknathalabs.com) | Gamified Terraform learning app |
+| [linux-command-explainer](https://eknatha.github.io/linux-command-explainer) | 50+ commands explained, with pipe chain visualizer |
+| [github-profile-analyzer](https://eknathareddyp.github.io/github-profile-analyzer) | Score any GitHub profile across 5 dimensions |
 
-## 🔧 Current Focus
+---
 
-Building reliable cloud platforms and sharing real-world DevOps troubleshooting knowledge.
+## Stack
 
-## 📫 Connect With Me
+`Linux` `Kubernetes` `Terraform` `Docker` `AWS` `Azure` `OpenStack` `Ansible` `GitHub Actions` `Python` `Bash`
 
-LinkedIn: https://linkedin.com/in/eknathareddyp 
+---
+
+## Now
+
+Preparing CKA + CKS · Shipping EknathaLabs content weekly · Building platform tooling in public
+
+**Connect:** [LinkedIn](https://linkedin.com/in/eknathareddyp) · [eknathalabs.com](https://eknathalabs.com) · [blog](https://blog.eknathalabs.com)
