@@ -28,7 +28,7 @@ Everything I build goes public at [EknathaLabs](https://eknathalabs.com).
 | [blog.eknathalabs.com](https://blog.eknathalabs.com) | Real infra stories, no fluff |
 | [terraform.eknathalabs.com](https://terraform.eknathalabs.com) | Gamified Terraform learning app |
 | [linux-command-explainer](https://eknatha.github.io/linux-command-explainer) | 50+ commands explained, with pipe chain visualizer |
-| [github-profile-analyzer](https://eknathareddyp.github.io/github-profile-analyzer) | Score any GitHub profile across 5 dimensions |
+| [github-profile-analyzer](https://eknatha.github.io/github-profile-analyzer) | Score any GitHub profile across 5 dimensions |
 
 ---
 
