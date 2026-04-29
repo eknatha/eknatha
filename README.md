@@ -1,6 +1,6 @@
 # Hi, 👋 I'm Eknatha Reddy Puli
 
-13 years running production infra — Linux, Kubernetes, OpenStack, AWS, Azure, Terraform.  
+13+ years running production infra — Linux, Kubernetes, OpenStack, AWS, Azure, Terraform.  
 Now building platforms, not just operating them.  
 Everything I build goes public at [EknathaLabs](https://eknathalabs.com).
 
@@ -23,6 +23,8 @@ Everything I build goes public at [EknathaLabs](https://eknathalabs.com).
 | | |
 |---|---|
 | [eknathalabs.com](https://eknathalabs.com) | Labs hub — tools, challenges, interview prep |
+| [resumelytics](https://eknatha.github.io/resumelytics/) | ATS resume scorer — 25+ tools, no data stored |
+| [interview-prep](https://eknatha.github.io/interview-prep/) | 500+ Platform & DevOps Q&A, 13+ production-grade guides |
 | [blog.eknathalabs.com](https://blog.eknathalabs.com) | Real infra stories, no fluff |
 | [terraform.eknathalabs.com](https://terraform.eknathalabs.com) | Gamified Terraform learning app |
 | [linux-command-explainer](https://eknatha.github.io/linux-command-explainer) | 50+ commands explained, with pipe chain visualizer |
@@ -32,12 +34,12 @@ Everything I build goes public at [EknathaLabs](https://eknathalabs.com).
 
 ## Stack
 
-`Linux` `Kubernetes` `Terraform` `Docker` `AWS` `Azure` `OpenStack` `Ansible` `GitHub Actions` `Python` `Bash`
+`Linux` `Kubernetes` `Terraform` `Docker` `AWS` `Azure` `GCP` `System Design` `GITHUB` `OpenStack` `Ansible` `GitHub Actions` `Python` `Bash`
 
 ---
 
 ## Now
 
-Preparing CKA + CKS · Shipping EknathaLabs content weekly · Building platform tooling in public
+Preparing CKA + CKS + GCP-ACE · Shipping EknathaLabs content  · Building platform tooling in public
 
 **Connect:** [LinkedIn](https://linkedin.com/in/eknathareddyp) · [eknathalabs.com](https://eknathalabs.com) · [blog](https://blog.eknathalabs.com)
