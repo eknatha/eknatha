@@ -24,11 +24,11 @@ Everything I build goes public at [EknathaLabs](https://eknathalabs.com).
 |---|---|
 | [eknathalabs.com](https://eknathalabs.com) | Labs hub — tools, challenges, interview prep |
 | [resumelytics](https://eknatha.github.io/resumelytics/) | ATS resume scorer — 25+ tools, no data stored |
-| [interview-prep](https://eknatha.github.io/interview-prep/) | 500+ Platform & DevOps Q&A, 13+ production-grade guides |
+| [interview-prep](https://interview-prep.eknathalabs.com/) | 500+ Platform & DevOps Q&A, 13+ production-grade guides |
 | [blog.eknathalabs.com](https://blog.eknathalabs.com) | Real infra stories, no fluff |
 | [terraform.eknathalabs.com](https://terraform.eknathalabs.com) | Gamified Terraform learning app |
 | [linux-command-explainer](https://eknatha.github.io/linux-command-explainer) | 50+ commands explained, with pipe chain visualizer |
-| [github-profile-analyzer](https://eknatha.github.io/github-profile-analyzer) | Score any GitHub profile across 5 dimensions |
+| [github-profile-analyzer](https://github-profile-analyzer.eknathalabs.com) | Score any GitHub profile across 5 dimensions |
 
 ---
 
