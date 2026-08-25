@@ -8,7 +8,7 @@
 
 [![Platform](https://img.shields.io/badge/EknathaLabs-eknathalabs.com-3fb950?style=flat-square&logo=github)](https://eknathalabs.com)
 [![Blog](https://img.shields.io/badge/Blog-blog.eknathalabs.com-58a6ff?style=flat-square)](https://blog.eknathalabs.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eknathareddyp-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/eknathareddyp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eknathareddyp-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/eknathareddypuli)
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=eknatha)
@@ -103,7 +103,7 @@ Observ.     Prometheus · Grafana · ELK
 |---|---|
 | 🌐 Platform | [eknathalabs.com](https://eknathalabs.com) |
 | ✍️ Blog | [blog.eknathalabs.com](https://blog.eknathalabs.com) |
-| 💼 LinkedIn | [linkedin.com/in/eknathareddyp](https://linkedin.com/in/eknathareddyp) |
+| 💼 LinkedIn | [linkedin.com/in/eknathareddyp](https://linkedin.com/in/eknathareddypuli) |
 | 🐙 GitHub | [github.com/eknatha](https://github.com/eknatha) |
 
 ---
