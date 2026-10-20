@@ -103,7 +103,7 @@ Observ.     Prometheus · Grafana · ELK
 |---|---|
 | 🌐 Platform | [eknathalabs.com](https://eknathalabs.com) |
 | ✍️ Blog | [blog.eknathalabs.com](https://blog.eknathalabs.com) |
-| 💼 LinkedIn | [linkedin.com/in/eknathareddyp](https://linkedin.com/in/eknathareddypuli) |
+| 💼 LinkedIn | [linkedin.com/in/eknathareddypuli](https://linkedin.com/in/eknathareddypuli) |
 | 🐙 GitHub | [github.com/eknatha](https://github.com/eknatha) |
 
 ---
