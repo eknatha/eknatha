@@ -38,7 +38,7 @@
 | [linux-command-explainer.eknathalabs.com](https://linux-command-explainer.eknathalabs.com) | Explain any Linux command: pipe chains, regex decoder, ELI5 mode, danger checklist |
 | [github-profile-analyzer.eknathalabs.com](https://github-profile-analyzer.eknathalabs.com) | Score any GitHub profile 0–100 across 5 dimensions, shareable scorecard PNG |
 | [resumelytics.eknathalabs.com](https://resumelytics.eknathalabs.com) | ATS resume analyzer — keyword scoring, format check, targeted improvements |
-| [interview-prep.eknathalabs.com](https://interview-prep.eknathalabs.com) | 12+ DevOps interview guides with flashcard mode, dark mode, visitor counter |
+| [interviewhub.eknathalabs.com](https://interviewhub.eknathalabs.com) | 12+ DevOps interview guides with flashcard mode, dark mode, visitor counter |
 | [docker.eknathalabs.com](https://docker.eknathalabs.com) | Docker from first principles — Compose, networking, multi-stage builds, security |
 | [blog.eknathalabs.com](https://blog.eknathalabs.com) | Real infra stories, Kubernetes deep-dives, platform engineering patterns |
 | [learn.eknathalabs.com](https://learn.eknathalabs.com) | Structured learning paths for CKA, CKS, Terraform Associate, and Platform Engineering |
