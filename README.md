@@ -4,10 +4,9 @@
 
 **Platform Engineer · DevOps Practitioner · Builder in Public**
 
-*14+ years running production infra. Now building platforms, not just operating them.*
+*15+ years running production infra. Now building platforms, not just operating them.*
 
 [![Platform](https://img.shields.io/badge/EknathaLabs-eknathalabs.com-3fb950?style=flat-square&logo=github)](https://eknathalabs.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.eknathalabs.com-58a6ff?style=flat-square)](https://blog.eknathalabs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eknathareddyp-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/eknathareddypuli)
 
 
@@ -41,7 +40,7 @@
 | [interviewhub.eknathalabs.com](https://interviewhub.eknathalabs.com) | 12+ DevOps interview guides with flashcard mode, dark mode, visitor counter |
 | [docker.eknathalabs.com](https://docker.eknathalabs.com) | Docker from first principles — Compose, networking, multi-stage builds, security |
 | [blog.eknathalabs.com](https://blog.eknathalabs.com) | Real infra stories, Kubernetes deep-dives, platform engineering patterns |
-| [learn.eknathalabs.com](https://learn.eknathalabs.com) | Structured learning paths for CKA, CKS, Terraform Associate, and Platform Engineering |
+| [marga.eknathalabs.com](https://marga.eknathalabs.com) | Structured learning paths for DevOps, SRE,CKA, CKS and Platform Engineering |
 
 ### 🔨 Building
 
